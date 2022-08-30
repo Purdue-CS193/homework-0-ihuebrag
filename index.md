@@ -1,3 +1,8 @@
+# Irene's First CS193 Homework
+
+- I really like the environment of the class, doesn't seem stressful and that makes me want to learn
+- I also like the space, the decline makes it easier to see above othe people's heads
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
